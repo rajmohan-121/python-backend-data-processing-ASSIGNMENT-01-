@@ -41,10 +41,7 @@ This project is suitable for:
 ```
 python-backend-data-processing/
 │
-├── main.py
-├── employees.txt
-├── employees.json
-├── employees.csv
+├── assignment.py
 └── README.md
 ```
 
